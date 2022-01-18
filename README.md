@@ -6,6 +6,7 @@ Personal projects
  - Binance Bot (Python script)
  - Python Twitter Crypto Bot (Python script)
  - URB Logokonkurranse (Norwegian logo contest)
+ - TrainingPeaks data analysis tool (Python script)
 
 Familiar with:
  - Xcode
