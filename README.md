@@ -64,5 +64,10 @@
  ### Binance Bot (Python)
  
  ### Python Twitter Crypto Bot (Python)
-  
- ### Workout analysis tool (Python)
+
+ ### Workout analysis tool
+ This is a workout anaysis tool built in Python that takes a CSV file containing workout data and magically outputs a understandable Excel file with useful graphs. The tool is built specifically to work well with <a href="https://app.trainingpeaks.com" target="_blank">TrainingPeaks'</a> "export data" function. This way athletes can get an overview of their training over any selected period in an instant.
+ <p align="center">
+   <img src="https://user-images.githubusercontent.com/59290941/192106265-9f53f0d1-6e25-4a59-91c9-7ee8b75dcae5.png" width="500" title="Illustration">
+   <em>Sample result</em>
+ </p>
