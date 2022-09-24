@@ -49,8 +49,10 @@
    <img src="https://user-images.githubusercontent.com/59290941/192073255-fca4d39f-c630-42ce-92f0-efb3de2d89f5.png" width="170" title="Mockup 3">
  </p>
  
- - Fly Away (iOS game)
- - Binance Bot (Python script)
- - Python Twitter Crypto Bot (Python script)
- - URB Logokonkurranse (Norwegian logo contest)
- - TrainingPeaks data analysis tool (Python script)
+ ### Fly Away (iOS game)
+ 
+ ### Binance Bot (Python)
+ 
+ ### Python Twitter Crypto Bot (Python)
+  
+ ### Workout analysis tool (Python)
