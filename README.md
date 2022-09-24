@@ -1,35 +1,17 @@
 
 ## Marius Genton - About me
 ### Familiar with
-
- <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
- Xcode
- 
- <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
- VSCode
- 
- <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
- PyCharm
- 
- <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
- GitHub
- 
- <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
- Stack Overflow
- 
- <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
- Linux terminal
- 
- <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107831-408ecb93-a526-4d85-9edf-8f887e343385.png">
- Sketch
+ - Xcode
+ - VSCode
+ - PyCharm
+ - GitHub
+ - Stack Overflow
+ - Linux terminal
+ - Sketch
 
 ### Proficient in
-
- <img align="left" width="25" src="https://user-images.githubusercontent.com/59290941/192107829-366673c9-6ba8-49dc-83fb-5a9ea6bba211.png">
- Python
- 
- <img align="left" width="25" src="https://user-images.githubusercontent.com/59290941/192107832-2769a8bc-edb1-472a-86e4-dc8dd28e8c5e.png">
- Swift
+ - Python
+ - Swift
 
 ### Basic knowledge in
  - HTML
@@ -38,9 +20,10 @@
  - Bash
 
 ### Online profiles
- - Stack Overflow: https://stackoverflow.com/users/8887055/marsolgen
- - Codefoces.com: https://codeforces.com/profile/Marsolgen
- - Hackerrank.com: https://www.hackerrank.com/mariusgenton
+ - <a href="https://www.linkedin.com/in/marius-genton-879092249/" target="_blank">LinkedIn</a>
+ - <a href="https://stackoverflow.com/users/8887055/marsolgen" target="_blank">Stack Overflow</a>
+ - <a href="https://codeforces.com/profile/Marsolgen" target="_blank">Codeforces</a>
+ - <a href="https://www.hackerrank.com/mariusgenton" target="_blank">HackerRank</a>
  
  
  ## Personal projects
