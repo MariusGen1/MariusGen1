@@ -55,7 +55,7 @@
  <img align="left" width="70" src="https://user-images.githubusercontent.com/59290941/192073764-ba1a77ed-7fb6-4adf-9df0-6bd4eafb71af.png">
  
  ### Fly Away
- Fly Away is a fast-paced iOS game that requires you to be on your toes, constantly ready to react quickly to unexpected situations. Your goal is to pilot the rocket to avoid the falling meteors, while also trying to get as many coins as possible in order to purchase upgrades in the lab. Full project <a href="https://www.hackerrank.com/mariusgenton" target="_blank">here</a>.
+ Fly Away is a fast-paced iOS game that requires you to be on your toes, constantly ready to react quickly to unexpected situations. Your goal is to pilot the rocket to avoid the falling meteors, while also trying to get as many coins as possible in order to purchase upgrades in the lab. Full project <a href="https://github.com/MariusGen1/Fly-Away" target="_blank">here</a>.
  
   <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192073768-ef15b638-17ad-4b5b-9a1d-24d44520a97b.png" width="170" title="Mockup 1">
@@ -63,16 +63,16 @@
  </p>
  
  ### Cryptocurrency tool
- This Python program is a tool that allows to test cryptocurrency investment stategies against historical data to determine their potential efficiency in the future. It allows the user to use a variety of different buying and selling strategies and provides detailed information about their performance. Full project <a href="https://www.hackerrank.com/mariusgenton" target="_blank">here</a>.
+ This Python program is a tool that allows to test cryptocurrency investment stategies against historical data to determine their potential efficiency in the future. It allows the user to use a variety of different buying and selling strategies and provides detailed information about their performance. Full project <a href="https://github.com/MariusGen1/Stocks-backtesting" target="_blank">here</a>.
  
  ### Binance Bot (Python)
- This is a fully autonomous bot written in Python that invests a set amount in a cryptocurrency as soon as it is made available on Binance (usually within the first 1-2 seconds). Full project <a href="https://www.hackerrank.com/mariusgenton" target="_blank">here</a>.
+ This is a fully autonomous bot written in Python that invests a set amount in a cryptocurrency as soon as it is made available on Binance (usually within the first 1-2 seconds). Full project <a href="https://github.com/MariusGen1/Binance-Bot" target="_blank">here</a>.
  
  ### Python Twitter Crypto Bot (Python)
- Full project <a href="https://www.hackerrank.com/mariusgenton" target="_blank">here</a>.
+ Full project <a href="https://github.com/MariusGen1/Twitter-Crypto-Bot" target="_blank">here</a>.
 
  ### Workout analysis tool
- This is a workout anaysis tool built in Python that takes a CSV file containing workout data and magically outputs a understandable Excel file with useful graphs. The tool is built specifically to work well with <a href="https://app.trainingpeaks.com" target="_blank">TrainingPeaks'</a> "export data" function. This way athletes can get an overview of their training over any selected period in an instant. Full project <a href="https://www.hackerrank.com/mariusgenton" target="_blank">here</a>.
+ This is a workout anaysis tool built in Python that takes a CSV file containing workout data and magically outputs a understandable Excel file with useful graphs. The tool is built specifically to work well with <a href="https://app.trainingpeaks.com" target="_blank">TrainingPeaks'</a> "export data" function. This way athletes can get an overview of their training over any selected period in an instant. Full project <a href="https://github.com/MariusGen1/TrainingPeaks-Analysis-Tool" target="_blank">here</a>.
  <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192106265-9f53f0d1-6e25-4a59-91c9-7ee8b75dcae5.png" width="500" title="Illustration">
    <em>Sample result</em>
