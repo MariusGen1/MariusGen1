@@ -1,17 +1,35 @@
 
 ## Marius Genton - About me
 ### Familiar with
- - Xcode
- - VSCode
- - PyCharm
- - GitHub
- - Stack Overflow
- - Linux terminal
- - Sketch
+
+ <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
+ Xcode
+ 
+ <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
+ VSCode
+ 
+ <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
+ PyCharm
+ 
+ <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
+ GitHub
+ 
+ <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
+ Stack Overflow
+ 
+ <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107828-714d704c-199c-4fa1-ad29-5675638cd29c.png">
+ Linux terminal
+ 
+ <img align="left" width="35" src="https://user-images.githubusercontent.com/59290941/192107831-408ecb93-a526-4d85-9edf-8f887e343385.png">
+ Sketch
 
 ### Proficient in
- - Python
- - Swift
+
+ <img align="left" width="25" src="https://user-images.githubusercontent.com/59290941/192107829-366673c9-6ba8-49dc-83fb-5a9ea6bba211.png">
+ Python
+ 
+ <img align="left" width="25" src="https://user-images.githubusercontent.com/59290941/192107832-2769a8bc-edb1-472a-86e4-dc8dd28e8c5e.png">
+ Swift
 
 ### Basic knowledge in
  - HTML
