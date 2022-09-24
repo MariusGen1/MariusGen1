@@ -49,7 +49,15 @@
    <img src="https://user-images.githubusercontent.com/59290941/192073255-fca4d39f-c630-42ce-92f0-efb3de2d89f5.png" width="170" title="Mockup 3">
  </p>
  
+
+ <img align="right" width="100" src="https://user-images.githubusercontent.com/59290941/192073764-ba1a77ed-7fb6-4adf-9df0-6bd4eafb71af.png">
+ 
  ### Fly Away (iOS game)
+ 
+  <p align="center">
+   <img src="https://user-images.githubusercontent.com/59290941/192073768-ef15b638-17ad-4b5b-9a1d-24d44520a97b.png" width="170" title="Mockup 1">
+   <img src="https://user-images.githubusercontent.com/59290941/192073769-d7dec802-c5eb-400d-a26a-d7953b3f0f39.png" width="170" title="Mockup 2">
+ </p>
  
  ### Binance Bot (Python)
  
