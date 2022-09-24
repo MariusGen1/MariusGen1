@@ -61,7 +61,11 @@
    <img src="https://user-images.githubusercontent.com/59290941/192073769-d7dec802-c5eb-400d-a26a-d7953b3f0f39.png" width="170" title="Mockup 2">
  </p>
  
+ ### Cryptocurrency tool
+ This Python program is a tool that allows to test cryptocurrency investment stategies against historical data to determine their potential efficiency in the future. It allows the user to use a variety of different buying and selling strategies and provides detailed information about their performance.
+ 
  ### Binance Bot (Python)
+ This is a fully autonomous bot written in Python that invests a set amount in a cryptocurrency as soon as it is made available on Binance (usually within the first 1-2 seconds).
  
  ### Python Twitter Crypto Bot (Python)
 
