@@ -18,6 +18,7 @@
  - CSS
  - Javascript
  - Bash
+ - C++
 
 ### Online profiles
  - <a href="https://www.linkedin.com/in/marius-genton-879092249/" target="_blank">LinkedIn</a>
