@@ -32,6 +32,7 @@
  
  ### Aqua (discontinued due to API shutdown)
  Aqua is an iOS app that displays data from Norwegian swimming meets in an easily understandable format. It also offers a multitude of features that go hand in hand with your needs while attending a swim meet such as qualification times for important events, a FINA-points calculator, and access to historic meet data. Full project <a href="https://github.com/MariusGen1/Aqua" target="_blank">here</a>.
+##### Keywords: Swift, Xcode, JSON, iOS, WebKit, Firebase, Firestore
 
  <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192072858-b5c2aa58-bd3c-4af3-85d1-d578b7551181.png" width="170" title="Mockup 1">
@@ -41,10 +42,12 @@
    <img src="https://user-images.githubusercontent.com/59290941/192072862-e84147d1-5ac5-4448-bb3e-3b96852a4e88.png" width="170" title="Mockup 5">
  </p>
  
+ 
  <img align="left" width="70" src="https://user-images.githubusercontent.com/59290941/192073247-204036c8-1132-4302-ac01-dff43b3d8702.png">
  
  ### Climate Challenges (available on TestFlight)
  Climate challenges is an iOS app that was ceated with the goal of encouraging people to act in a more environmentally responsible way. By offering a set of tasks associated with a points rewards, users can compete against each other to achieve the highest amount of points. In addition to making people act responsibly, the app is designed to educate people about how they can make an impact on the environment through simple changes in their day-to-day life. Full project <a href="https://github.com/MariusGen1/Climate-Challenge" target="_blank">here</a>.
+ ##### Keywords: Swift, SwiftUI, Xcode, Firebase, Firestore
 
   <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192073250-080f114e-9f33-45e8-9b17-49e7de7e18e3.png" width="170" title="Mockup 1">
