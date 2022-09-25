@@ -32,7 +32,7 @@
  
  ### Aqua (discontinued due to API shutdown)
  Aqua is an iOS app that displays data from Norwegian swimming meets in an easily understandable format. It also offers a multitude of features that go hand in hand with your needs while attending a swim meet such as qualification times for important events, a FINA-points calculator, and access to historic meet data. Full project <a href="https://github.com/MariusGen1/Aqua" target="_blank">here</a>.
-##### Keywords: Swift, Xcode, JSON, iOS, WebKit, Firebase, Firestore
+###### Keywords: Swift, Xcode, JSON, iOS, WebKit, Firebase, Firestore
 
  <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192072858-b5c2aa58-bd3c-4af3-85d1-d578b7551181.png" width="170" title="Mockup 1">
@@ -47,7 +47,7 @@
  
  ### Climate Challenges (available on TestFlight)
  Climate challenges is an iOS app that was ceated with the goal of encouraging people to act in a more environmentally responsible way. By offering a set of tasks associated with a points rewards, users can compete against each other to achieve the highest amount of points. In addition to making people act responsibly, the app is designed to educate people about how they can make an impact on the environment through simple changes in their day-to-day life. Full project <a href="https://github.com/MariusGen1/Climate-Challenge" target="_blank">here</a>.
- ##### Keywords: Swift, SwiftUI, Xcode, Firebase, Firestore
+ ###### Keywords: Swift, SwiftUI, Xcode, Firebase, Firestore
 
   <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192073250-080f114e-9f33-45e8-9b17-49e7de7e18e3.png" width="170" title="Mockup 1">
@@ -60,6 +60,7 @@
  
  ### Fly Away
  Fly Away is a fast-paced iOS game that requires you to be on your toes, constantly ready to react quickly to unexpected situations. Your goal is to pilot the rocket to avoid the falling meteors, while also trying to get as many coins as possible in order to purchase upgrades in the lab. Full project <a href="https://github.com/MariusGen1/Fly-Away" target="_blank">here</a>.
+ ###### Keywords: Swift, Xcode, Firebase, Firestore, GameKit, StoreKit, Google Mobile Ads, SpriteKit
  
   <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192073768-ef15b638-17ad-4b5b-9a1d-24d44520a97b.png" width="170" title="Mockup 1">
@@ -68,15 +69,20 @@
  
  ### Cryptocurrency tool
  This Python program is a tool that allows to test cryptocurrency investment stategies against historical data to determine their potential efficiency in the future. It allows the user to use a variety of different buying and selling strategies and provides detailed information about their performance. Full project <a href="https://github.com/MariusGen1/Stocks-backtesting" target="_blank">here</a>.
+ ###### Keywords: Python, Cryptocompare, Pandas
  
  ### Binance Bot (Python)
  This is a fully autonomous bot written in Python that invests a set amount in a cryptocurrency as soon as it is made available on Binance (usually within the first 1-2 seconds). Full project <a href="https://github.com/MariusGen1/Binance-Bot" target="_blank">here</a>.
+ ###### Keywords: Python, Binance, Bot
  
  ### Python Twitter Crypto Bot (Python)
  Full project <a href="https://github.com/MariusGen1/Twitter-Crypto-Bot" target="_blank">here</a>.
+ ###### Keywords: Python, Cryptocompare, Pandas, SNScrape
 
  ### Workout analysis tool
  This is a workout anaysis tool built in Python that takes a CSV file containing workout data and magically outputs a understandable Excel file with useful graphs. The tool is built specifically to work well with <a href="https://app.trainingpeaks.com" target="_blank">TrainingPeaks'</a> "export data" function. This way athletes can get an overview of their training over any selected period in an instant. Full project <a href="https://github.com/MariusGen1/TrainingPeaks-Analysis-Tool" target="_blank">here</a>.
+ ###### Keywords: Python, CSV, Excel, Pandas
+ 
  <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192106265-9f53f0d1-6e25-4a59-91c9-7ee8b75dcae5.png" width="500" title="Illustration">
    <em>Sample result</em>
