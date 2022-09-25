@@ -45,11 +45,11 @@
  
  ### Climate Challenges (available on TestFlight)
  Climate challenges is an iOS app that was ceated with the goal of encouraging people to act in a more environmentally responsible way. By offering a set of tasks associated with a points rewards, users can compete against each other to achieve the highest amount of points. In addition to making people act responsibly, the app is designed to educate people about how they can make an impact on the environment through simple changes in their day-to-day life. Full project <a href="https://github.com/MariusGen1/Climate-Challenge" target="_blank">here</a>.
- 
+
   <p align="center">
    <img src="https://user-images.githubusercontent.com/59290941/192073250-080f114e-9f33-45e8-9b17-49e7de7e18e3.png" width="170" title="Mockup 1">
    <img src="https://user-images.githubusercontent.com/59290941/192073253-8ff8e173-ba89-4187-add1-047a770a0cb2.png" width="170" title="Mockup 2">
-   <img src="https://user-images.githubusercontent.com/59290941/192073255-fca4d39f-c630-42ce-92f0-efb3de2d89f5.png" width="170" title="Mockup 3">
+   <img src="https://user-images.githubusercontent.com/59290941/192127809-d6356c52-a4fd-4090-917b-10647e6c5c73.png" width="170" title="Mockup 3">
  </p>
  
 
