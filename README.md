@@ -22,10 +22,7 @@
 
 ### Online profiles
  - <a href="https://www.linkedin.com/in/marius-genton-879092249/" target="_blank">LinkedIn</a>
- - <a href="https://stackoverflow.com/users/8887055/marsolgen" target="_blank">Stack Overflow</a>
- - <a href="https://codeforces.com/profile/Marsolgen" target="_blank">Codeforces</a>
- - <a href="https://www.hackerrank.com/mariusgenton" target="_blank">HackerRank</a>
- 
+ - <a href="https://stackoverflow.com/users/8887055/marsolgen" target="_blank">Stack Overflow</a> 
  
  ## Personal projects
  <img align="left" width="70" src="https://user-images.githubusercontent.com/59290941/192072857-a859ae07-e3ad-43ee-a508-751b31efb0fa.png">
