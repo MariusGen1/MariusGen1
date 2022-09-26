@@ -44,6 +44,7 @@
  
  ### Climate Challenges (available on TestFlight)
  Climate challenges is an iOS app that was ceated with the goal of encouraging people to act in a more environmentally responsible way. By offering a set of tasks associated with a points rewards, users can compete against each other to achieve the highest amount of points. In addition to making people act responsibly, the app is designed to educate people about how they can make an impact on the environment through simple changes in their day-to-day life. Full project <a href="https://github.com/MariusGen1/Climate-Challenge" target="_blank">here</a>.
+ Link to <a href="https://testflight.apple.com/join/5nvaNLqk" target="_blank">TestFlight download</a>
  ###### Keywords: Swift, SwiftUI, Xcode, Firebase, Firestore
 
   <p align="center">
