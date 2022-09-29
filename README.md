@@ -1,28 +1,43 @@
 
 ## Marius Genton - About me
-### Familiar with
- - Xcode
- - VSCode
- - PyCharm
- - GitHub
- - Stack Overflow
- - Linux terminal
- - Sketch
+
+##### Los Angeles, CA, U.S. / Oslo, Norway
+
+### Contact information
+E-mail: mariusg@ucla.edu
+
+LinkedIn: <a href="https://www.linkedin.com/in/marius-genton-879092249/" target="_blank">LinkedIn</a>
+
+StackOVerflow: <a href="https://stackoverflow.com/users/8887055/marsolgen" target="_blank">Stack Overflow</a> 
 
 ### Proficient in
- - Python
  - Swift
-
-### Basic knowledge in
- - HTML
- - CSS
- - Javascript
- - Bash
+ - Python
  - C++
 
+### Familiar with
+ - Xcode
+ - PyCharm
+ - VSCode
+ - Sketch
+ - Stack Overflow
+ - GitHub
+ - JSON
+ - Google Firebase
+ - Linux
+ - MacOS
+ - Windows
+
+### Basic knowledge in
+ - Bash
+ - HTML
+ - CSS
+ - SQL
+ - VBA
+ - JavaScript
+
 ### Online profiles
- - <a href="https://www.linkedin.com/in/marius-genton-879092249/" target="_blank">LinkedIn</a>
- - <a href="https://stackoverflow.com/users/8887055/marsolgen" target="_blank">Stack Overflow</a> 
+
  
  ## Personal projects
  <img align="left" width="70" src="https://user-images.githubusercontent.com/59290941/192072857-a859ae07-e3ad-43ee-a508-751b31efb0fa.png">
