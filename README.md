@@ -8,7 +8,7 @@ E-mail: mariusg@ucla.edu
 
 LinkedIn: <a href="https://www.linkedin.com/in/marius-genton-879092249/" target="_blank">LinkedIn</a>
 
-StackOVerflow: <a href="https://stackoverflow.com/users/8887055/marsolgen" target="_blank">Stack Overflow</a> 
+StackOverflow: <a href="https://stackoverflow.com/users/8887055/marsolgen" target="_blank">Stack Overflow</a> 
 
 ### Proficient in
  - Swift
