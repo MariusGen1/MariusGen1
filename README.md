@@ -8,17 +8,30 @@ I'm a junior at UCLA pursuing a B.S. in Computer Science & Engineering, with a t
 - 💼 <a href="https://www.linkedin.com/in/marius-genton-879092249/" target="_blank">LinkedIn</a>
 
  
- ## Personal projects
- <img align="left" width="70" src="https://github.com/user-attachments/assets/aa5f1cbb-80bf-4378-b80a-b5170ba0464b">
+# Projects
+ <img align="left" width="42" src="https://github.com/user-attachments/assets/aa5f1cbb-80bf-4378-b80a-b5170ba0464b">
 
-### BruinDining
+## BruinDining
 ###### ~20k daily active users | 2M+ app sessions since launch
 BruinDining is an app I built to facilitate dining for UCLA students, by making it easy to find open dining halls and their menus. Over time, I've added a lot of other features, including a rating & review system, notifications for favorite foods, and a meal swipe marketplace.
 
 
-<img align="left" width="70" src="https://user-images.githubusercontent.com/59290941/192072857-a859ae07-e3ad-43ee-a508-751b31efb0fa.png">
+## 📄 EEG Data Classification using hybrid CNN-RNN architectures
 
-### Aqua
+This paper's aim was to explore which deep learning architectures would be best fit to accurately map EEG signals from the brain to their corresponding muscle contractions. 
+
+#### Abstract
+_In this experiment, we analyzed 2115 sets of EEG data from 9 different subjects and performed classification among 4 classes. With the main goal being to determine the type of trial with high accuracy, we tried different archi- tectures based on conceptual reasoning as well as trial and error. We found that a model composed of convolutional layers performed the best, achieving validation accuracies of up to 72%. Furthermore, we determined that it is possible to get acceptable predictions after 500 time units out of the 1000 provided and that results from one subject did not seem to generalize well to the other subjects._
+
+**📄 Read the full paper <a href="https://github.com/user-attachments/files/18422170/Archive-2.pdf" target="_blank">here</a>**
+
+**💻 Jupyter Notebook available <a href="https://github.com/user-attachments/files/18422245/Notebook.Final.Version.pdf" target="_blank">here</a>**
+
+###### This paper was written for UCLA's ECE C147 class offering in Winter 2024 (Neural Networks & Deep Learning).
+
+<img align="left" width="42" src="https://user-images.githubusercontent.com/59290941/192072857-a859ae07-e3ad-43ee-a508-751b31efb0fa.png">
+
+## Aqua
 ###### ⚠️ Discontinued due to API shutdown
  Aqua is a mobile app that displays data from Norwegian swimming meets in an easily understandable format. It also offers a multitude of features that go hand in hand with your needs while attending a swim meet such as qualification times for important events, a FINA-points calculator, and access to historic meet data. Full project <a href="https://github.com/MariusGen1/Aqua" target="_blank">here</a>.
 
